@@ -1,6 +1,6 @@
-# Abokado404 – Minimalist Portfolio
+# Abokado404 
 
-This is the initial version of my personal portfolio. Built with basic HTML and CSS for simplicity and speed.
+This is the initial version of my personal page.
 
 ## Features
 
