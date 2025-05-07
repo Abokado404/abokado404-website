@@ -1,32 +1,31 @@
 body {
-  margin: 0;
-  font-family: system-ui, sans-serif;
-  background-color: #fafafa;
-  color: #222;
-  line-height: 1.6;
-}
-
-main {
-  max-width: 700px;
-  margin: 2rem auto;
-  padding: 0 1rem;
+  background-color: #121212;
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
 }
 
 h1, h2 {
-  font-weight: 500;
-  margin-bottom: 0.5rem;
+  color: #00ffcc;
 }
 
-nav {
-  margin: 1rem 0;
+a {
+  color: #00acee;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 nav a {
-  margin-right: 1rem;
-  text-decoration: none;
-  color: #555;
+  margin-right: 15px;
 }
 
-nav a:hover {
-  text-decoration: underline;
+section {
+  margin-top: 30px;
+  padding: 20px;
+  border: 1px solid #333;
+  border-radius: 10px;
+  background-color: #1e1e1e;
 }
